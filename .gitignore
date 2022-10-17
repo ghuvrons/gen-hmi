@@ -1,0 +1,15 @@
+# /HMI-*/Core/*/*
+# /HMI-*/Drivers
+# /HMI-*/Middlewares/*/*
+/HMI-*/Debug
+# /HMI-*/.settings
+# /HMI-*/.mxproject
+
+# !/HMI-*/Core/Src/main.c
+# !/HMI-*/Middlewares/ST/touchgfx
+
+# TouchGFX
+/HMI-*/TouchGFX/**/*.cache
+# /HMI-*/TouchGFX/config
+/HMI-*/TouchGFX/build
+/HMI-*/TouchGFX/simulator
